@@ -30,6 +30,8 @@ i {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
     
 }
 
@@ -75,15 +77,6 @@ i {
 
 }
 
-#greetings1 {
-	font-family: Arial, sans-serif;
-	margin-bottom: 50px;
-	font-size: 50px;
-	background-color: #d2ab99;
-	margin-top: 70px;
-	padding: 20px;
-}
-	
 #footer {
 	background-color: #d2ab99;
 	margin: 0px;
@@ -114,9 +107,10 @@ i {
 	
 
 .literature {
-	height: 400px;
-	width: 400px;
-	padding: 30px;
+	height: 300px;
+	width: 300px;
+	padding: 10px;
+	margin: 20px;
 }
 
 .icons {
