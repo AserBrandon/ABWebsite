@@ -35,26 +35,6 @@ i {
     
 }
 
-#story {
-  position: relative;
-  top: 30px;
-  width: 43.33%;
-  padding: 20px;
-  background-color: #8DB38B; opacity:0.95;
-  font-family: Arial, sans-serif;
-  margin: 15px;
-  margin-right: 0px;
-  text-align: center;
-}
-
-#turn {
-  margin-left: 850px;
-  margin-bottom: 400px;
-  display: flex;
-  justify-content: flex-start;
-}
-
-
 #logos1 {
 	height: auto;
 	width: 60px;
@@ -106,11 +86,94 @@ i {
 }
 	
 
-.literature {
-	height: 400px;
-	width: 400px;
-	padding: 10px;
+.literature1 {
+	height: 300px;
+  width: 300px;
+  background:url(Drawings/IMG_1792.JPG) no-repeat;
+  background-size: cover;
+  display: inline-block;
 	margin: 20px;
+}
+
+.literature1:hover{
+  background:url(lithover/literature.JPG);
+  background-size: cover;
+   
+}
+
+.literature2 {
+	height: 300px;
+  width: 300px;
+  background:url(Drawings/IMG_1792_1.JPG) no-repeat;
+  display: inline-block;
+  background-size: cover;
+  margin: 20px;
+}
+
+.literature2:hover{
+  background:url(lithover/resume.JPG);
+  background-size: cover;
+   
+}
+
+.literature3 {
+	height: 300px;
+  width: 300px;
+  background:url(Drawings/IMG_1807.JPG) no-repeat;
+  display: inline-block;
+  background-size: cover;
+	margin: 20px;
+}
+
+.literature3:hover{
+  background:url(lithover/korean.JPG);
+  background-size: cover;
+   
+}
+
+.literature4 {
+	height: 300px;
+  width: 300px;
+  background:url(Drawings/IMG_1807_1.JPG) no-repeat;
+  display: inline-block;
+  background-size: cover;
+	margin: 20px;
+}
+
+.literature4:hover{
+  background:url(lithover/culture.JPG);
+  background-size: cover;
+   
+}
+
+.literature5 {
+	height: 300px;
+  width: 300px;
+  background:url(Drawings/IMG_1792_4.JPG) no-repeat;
+  display: inline-block;
+  background-size: cover;
+	margin: 20px;
+}
+
+.literature5:hover{
+  background:url(lithover/youtube.JPG);
+  background-size: cover;
+   
+}
+
+.literature6 {
+	height: 300px;
+  width: 300px;
+  background:url(Drawings/IMG_1792_5.JPG) no-repeat;
+  display: inline-block;
+  background-size: cover;
+	margin: 20px;
+}
+
+.literature6:hover{
+  background:url(lithover/passages.JPG);
+  background-size: cover;
+   
 }
 
 .icons {
